@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+venv/
+
+# ML models
+*.pt
+
+# Logs / data
+calibration_logs/
+data_log/
+*.csv
+
+# Temp / lock
+*.lock
+.~lock.*
+
+# CARLA
+*.log
